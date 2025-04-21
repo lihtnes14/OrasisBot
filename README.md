@@ -43,7 +43,7 @@ To run **OrasisBot** locally, follow these steps:
     pip install -r requirements.txt
     ```
 
-4. Create a `.env` file:
+4. Create a `.env` file and add Groq API key:
     ```bash
     touch .env
     ```
