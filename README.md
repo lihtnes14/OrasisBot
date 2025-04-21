@@ -28,7 +28,7 @@ To run **OrasisBot** locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/orasisbot.git
+    git clone https://github.com/matheshhh/orasisbot.git
     cd orasisbot
     ```
 
