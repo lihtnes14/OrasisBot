@@ -13,7 +13,6 @@ load_dotenv()
 
 # Initialize LLM
 llm = ChatGroq(
-    api_key="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",
     model_name="gemma2-9b-it"
 )
 
